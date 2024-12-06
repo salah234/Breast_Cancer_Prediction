@@ -72,7 +72,7 @@ We utilized the **University of Wisconsin Breast Cancer Dataset**, which contain
 ## Performance Metrics  
 | Model                 | Accuracy (%) | Precision | Recall | F1 Score |  
 |-----------------------|-------------|-----------|--------|----------|  
-| Neural Network        | 99.12       | 0.96      | 0.97   | 0.97     |  
+| Neural Network        | 97.36       | 0.96      | 0.97   | 0.97     |  
 | Random Forest         | 99.00       | 0.99      | 1.00   | 0.99     |  
 | XGBoost               | 97.00       | 0.97      | 0.99   | 0.98     |  
 
