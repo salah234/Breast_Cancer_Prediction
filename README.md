@@ -84,7 +84,7 @@ We utilized the **University of Wisconsin Breast Cancer Dataset**, which contain
 > <img width="443" alt="Screenshot 2024-11-21 at 2 57 06 PM" src="https://github.com/user-attachments/assets/bba66fe9-283f-498d-90be-a6095f27e4a4">
 
 ---
-**Visualization for the Sharpley Values**
+**Visualization for the Shapley Values**
 > <img width="624" alt="Screenshot 2024-11-21 at 4 32 54 PM" src="https://github.com/user-attachments/assets/77729928-c84b-429a-aa21-a9c5f295467b">
 
 ## Repository Structure  
